@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+<body>
+    <div class='container'>
+        <div class="row justify-content-center header">
+            <div class=" col-lg-4 ">
+                <div class="row justify-content-center">
+                <p class="col-8" id='p'>Avalable budget in </p>
+            </div>
+            <div class="row justify-content-center">
+                <p class="col-8" style="font-size: 40px;" id="result"></p>
+                </div>
+                <div class="row income">
+                <div class="col-12" id="inc"> INCOME  </div>
+            </div>
+            <div class="row exprenses">
+                <div class="col-12 " id="exp" > EXPRENSES  </div>
+            </div>
+    </div>
+    
+</div>
+    <div class="row justify-content-center form">
+        <select  id="plus">
+            <option value="+">+</option>
+            <option value="-">-</option>
+        </select>
+        <div class="col-3">
+            <input type="text" class="description" id="tex" placeholder="add description">
+    </div>
+    <div class="col-1">
+        <input type="text" class="value" placeholder="value" id="val">
+    </div>
+    <button class="add" id="additem">add</button>
+    </div>
+
+    <div class="row justify-content-center main">
+        <div class="col-4">
+            <h4>INCOME</h4>
+            <ul class="list-group" id="in">
+              
+              </ul>
+        </div>
+
+        <div class="col-4">
+       <h4>EXPRENSES</h4>
+        <ul class="list-group" id="ex">
+          </ul>
+        </div>
+    </div>
+
+
+    </div>
+
+
+
+
+
+
+    <script src="./index.js"></script>
+</body>
+</html>

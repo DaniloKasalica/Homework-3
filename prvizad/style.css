@@ -1,0 +1,52 @@
+.header{
+   background-image: url(./download.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-position: center;
+   color: white;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+.income{
+    background-color: rgb(18, 185, 163);
+    padding: 10px;
+    color: black;
+}
+.exprenses{
+    background-color: rgba(204, 59, 23, 0.979);
+    padding: 10px;
+    margin-top: 5px;
+    color: black;
+}
+.form{
+    margin-top:10px
+}
+
+.description{
+    padding: 5px;
+    width: 100%;
+}
+.value{
+    width: 100%;
+    padding: 5px;
+    margin-left: -20px;
+}
+.add{
+    margin-left:-20px;
+}
+.main{
+    margin-top:40px;
+}
+.number{
+    margin-right: 20px;
+    float: right;
+    color: lightseagreen;
+}
+.number_1{
+    color: white;
+    float: right;
+}
+.list-group-item{
+    font-weight: 600;
+}

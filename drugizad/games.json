@@ -1,0 +1,154 @@
+[ 
+    {
+        "slika":"https://upload.wikimedia.org/wikipedia/sr/5/5a/Grand_Theft_Auto_V_box_art.jpg",
+        "naziv" :"Grand Treft Auto V",
+        "izdavac":"Rockstar North",
+        "zanr":"Akcija,RPG",
+        "ocjena":9.4,
+        "url":"https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us"
+
+    
+    },
+
+    {
+        "slika":"https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sporebox.jpg/220px-Sporebox.jpg",
+        "naziv":"Spore",
+        "izdavac":"221games",
+        "zanr":"Akcija,sport",
+        "ocjena":8.2,
+        "url":"https://www.spore.com"
+
+    
+    },
+
+
+    {
+        "slika":"https://s1.gaming-cdn.com/images/products/2208/271x377/overwatch-cover.jpg",
+        "naziv":"Overwatch",
+        "izdavac":"Iron Galaxy",
+        "zanr":"Akcija",
+        "ocjena":9.1,
+        "url":"https://playoverwatch.com/en-us/"
+
+    
+    },
+    {
+        "slika":"https://s1.gaming-cdn.com/images/products/2208/271x377/overwatch-cover.jpg",
+        "naziv":"Overwatch",
+        "izdavac":"Iron Galaxy",
+        "zanr":"Akcija",
+        "ocjena":9.1,
+        "url":"https://playoverwatch.com/en-us/"
+
+    
+    },
+    {
+        "slika":"https://s1.gaming-cdn.com/images/products/2208/271x377/overwatch-cover.jpg",
+        "naziv":"Overwatch",
+        "izdavac":"Iron Galaxy",
+        "zanr":"Akcija",
+        "ocjena":9.1,
+        "url":"https://playoverwatch.com/en-us/"
+
+    
+    },
+    {
+        "slika":"https://s1.gaming-cdn.com/images/products/2208/271x377/overwatch-cover.jpg",
+        "naziv":"Overwatch",
+        "izdavac":"Iron Galaxy",
+        "zanr":"Akcija",
+        "ocjena":9.1,
+        "url":"https://playoverwatch.com/en-us/"
+
+    
+    },
+    {
+        "slika":"https://s1.gaming-cdn.com/images/products/2208/271x377/overwatch-cover.jpg",
+        "naziv":"Overwatch",
+        "izdavac":"Iron Galaxy",
+        "zanr":"Akcija",
+        "ocjena":9.1,
+        "url":"https://playoverwatch.com/en-us/"
+
+    
+    },
+
+    {
+        "slika":"https://gamepedia.cursecdn.com/fortnite_gamepedia/thumb/8/83/Fortniteboximagestandard-hires.png/256px-Fortniteboximagestandard-hires.png?version=c134237cbddb592a366b0ed197be30b2",
+        "naziv":"Fortnite",
+        "izdavac":"epicgames",
+        "zanr":"Akcija",
+        "ocjena":9.8,
+        "url":"https://www.epicgames.com/fortnite/en-US/home"
+
+    
+    },
+
+    {
+        "slika":"https://s2.gaming-cdn.com/images/products/5008/271x377/efootball-pes-2020-cover.jpg",
+        "naziv":"PES 2020",
+        "izdavac":"KONAMI",
+        "zanr":"SPORT",
+        "ocjena":8.0,
+        "url":"https://www.konami.com/wepes/2020/eu/en/ps4/"
+
+    
+    },
+
+
+    {
+        "slika":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSa_bIxIOTSa1pRGdfb0A8rTRuEAEPdboWAn71vdiB18XaR6lg-&usqp=CAU",
+        "naziv":"NBA 2k20",
+        "izdavac":"2k games",
+        "zanr":"sport",
+        "ocjena":9.5,
+        "url":"https://nba.2k.com/en-US/"
+
+    
+    },
+
+    {
+        "slika":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXnrDfcmmKpe976y9v47mPVExx3J7Vf-QpL6ubPuxbG8JJrbj&usqp=CAU",
+        "naziv":"Apex legends",
+        "izdavac":"Respawn Entertainment",
+        "zanr":"Akcija",
+        "ocjena":9.0,
+        "url":"https://www.ea.com/games/apex-legends"
+
+    
+    },
+
+    {
+        "slika":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Rocket_League.jpg/220px-Rocket_League.jpg",
+        "naziv":"Rocket League",
+        "izdavac":"Panic Button Games",
+        "zanr":"Akcija,RPG",
+        "ocjena":9.5,
+        "url":"https://www.rocketleague.com/"
+
+    
+    },
+
+
+    {
+        "slika":"https://steamuserimages-a.akamaihd.net/ugc/26224100573550237/9D5B5DEC11D6DD1461F5907E0120E815AB688978/",
+        "naziv":"Counter-strike:Global Offensive",
+        "izdavac":" Hidden Path Entertainment",
+        "zanr":"Akcija",
+        "ocjena":9.4,
+        "url":"https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
+
+    
+    } ,
+
+    {
+        "slika":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Rocket_League.jpg/220px-Rocket_League.jpg",
+        "naziv":"Rocket League",
+        "izdavac":"Panic Button Games",
+        "zanr":"Akcija,RPG",
+        "ocjena":9.5,
+        "url":"https://www.rocketleague.com/"
+
+    
+    }
+]
